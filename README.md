@@ -17,3 +17,8 @@ This repo is a simple demo notebook that pulls SWOT River reach time series from
 2) Create an environment and install requirements:
 ```bash
 pip install -r requirements.txt
+
+## Run from command line (automatic)
+```bash
+pip install -r requirements.txt
+python run_quicklook.py --reach-id 73218000131
